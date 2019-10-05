@@ -10,5 +10,6 @@ public class Java {
         System.out.println("hello four");
         System.out.println("hello five");
         System.out.println("hello six");
+        System.out.println("hello seven");
     }
 }
