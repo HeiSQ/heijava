@@ -7,6 +7,7 @@ public class Java {
         System.out.println("hello word");
         System.out.println("hello two");
         System.out.println("hello three");
+        System.out.println("hello four");
         System.out.println("hello five");
     }
 }
